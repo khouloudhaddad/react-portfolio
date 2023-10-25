@@ -81,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - npm i react-loaders
 - npm i react-router-dom
 - npm i sass
+- npm i firebase
